@@ -10,3 +10,6 @@ git diff: khac biet -> nhan q -> thoat khoi git diff
 working directory: thu muc lam viec
 staging area: file nam trong staging area(mau xanh) dc commit
 git repository: luu nhung thay doi cua cac commit
+
+git checkout
+git reset
