@@ -11,5 +11,9 @@ working directory: thu muc lam viec
 staging area: file nam trong staging area(mau xanh) dc commit
 git repository: luu nhung thay doi cua cac commit
 
-git checkout
-git reset
+git checkout -> git checkout -- <file>
+git reset -> git reset HEAD <file>
+
+git checkout -b <branch> (branching: tao nhanh)
+git checkout <branch>
+git merge: ghep nhanh a vao nhanh b 
