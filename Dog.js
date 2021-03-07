@@ -1,3 +1,1 @@
-function Dog() {
-
-};
+function Dog() { };
